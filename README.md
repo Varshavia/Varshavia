@@ -16,6 +16,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 
 #### Contributing to
 
+- **[REA](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - `rea doctor` on Windows no longer reports multiple installations for the launcher shims of a single install.
 - **[ego-lite](https://github.com/citrolabs/ego-lite)** [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat&color=gold)](https://github.com/citrolabs/ego-lite) - Home-directory expansion for `~` paths in the agent browser, and stale docs/asset path cleanup.
 - **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=flat&color=gold)](https://github.com/CoreBunch/Instatic) - MCP browser tools now advertise their open-workspace requirement; data tokens and relative paths in link and button URLs.
 - **[GeoLibre](https://github.com/opengeos/GeoLibre)** [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat&color=gold)](https://github.com/opengeos/GeoLibre) - Touch-drag support for drawing the print extent on mobile.
