@@ -14,10 +14,17 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 - **[Context-bot](https://github.com/Varshavia/Context-bot)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/Context-bot?style=flat&color=gold)](https://github.com/Varshavia/Context-bot) - An OS-level context switcher for developers.
 - **[FPGA Neural Accelerator](https://github.com/Varshavia/FPGA-Neural-Accelerator)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/FPGA-Neural-Accelerator?style=flat&color=gold)](https://github.com/Varshavia/FPGA-Neural-Accelerator) - MNIST digit classification accelerator in Verilog, with Python-based quantization and Vivado simulation.
 
+#### Private projects
+
+Source code isn't public yet; happy to walk through any of them on request.
+
+- **GlucoseM** ![Private](https://img.shields.io/badge/repo-private-555?style=flat&logo=github) - AI-powered Type 1 diabetes platform: a patient-conditioned Transformer, trained on 132M rows of real CGM data from 79 patients, forecasts the next 60 minutes of glucose. Mobile app, RAG assistant and meal-photo carb estimation. Teknofest 2026 finalist.
+- **Karun** ![Private](https://img.shields.io/badge/repo-private-555?style=flat&logo=github) - Outlook score and market intelligence for long-term US stock investors: a 0-100 score from fundamentals, momentum, SEC insider trades and analyst sentiment, delivered through a Telegram bot and a web app.
+- **Savana** ![Private](https://img.shields.io/badge/repo-private-555?style=flat&logo=github) - AI analysis agent over a lakehouse of 55,000+ Turkish financial data series (TCMB EVDS, BDDK); every number in an answer traces back to its source. KKB Hackathon 2026 finalist.
+
 #### Contributing to
 
 - **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - `rea doctor` on Windows no longer reports multiple installations for the launcher shims of a single install.
 - **[ego-lite](https://github.com/citrolabs/ego-lite)** [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat&color=gold)](https://github.com/citrolabs/ego-lite) - Home-directory expansion for `~` paths in the agent browser, and stale docs/asset path cleanup.
 - **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=flat&color=gold)](https://github.com/CoreBunch/Instatic) - MCP browser tools now advertise their open-workspace requirement; data tokens and relative paths in link and button URLs.
 - **[GeoLibre](https://github.com/opengeos/GeoLibre)** [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat&color=gold)](https://github.com/opengeos/GeoLibre) - Touch-drag support for drawing the print extent on mobile.
-
