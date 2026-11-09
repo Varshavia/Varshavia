@@ -11,7 +11,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 <br clear="right" />
 
 #### Building
-#### Building
 
 - **[RepoMagpie](https://github.com/Varshavia/RepoMagpie)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/RepoMagpie?style=flat&color=gold)](https://github.com/Varshavia/RepoMagpie) - Remember why you dropped a package: your coding agent checks before installing it again.
 - **[Nightshift](https://github.com/Varshavia/nightshift)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/nightshift?style=flat&color=gold)](https://github.com/Varshavia/nightshift) - An agent fleet that patches CVEs across hundreds of repos overnight, then repairs the code the upgrades break.
