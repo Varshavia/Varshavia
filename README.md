@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Varshavia/Varshavia/main/koi/koi.gif" width="200" align="right" alt="My koi, redrawn every night from my GitHub activity" />
+
 ### Hey, I'm Yusuf
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf%20Suat%20Babacan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusuf-suat-babacan)
@@ -6,6 +8,9 @@ Computer Engineering student at Yeditepe University. I build tools for coding ag
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 
+<br clear="right" />
+
+#### Building
 #### Building
 
 - **[RepoMagpie](https://github.com/Varshavia/RepoMagpie)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/RepoMagpie?style=flat&color=gold)](https://github.com/Varshavia/RepoMagpie) - Remember why you dropped a package: your coding agent checks before installing it again.
