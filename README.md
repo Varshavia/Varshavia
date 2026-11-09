@@ -1,3 +1,9 @@
+<img src="https://raw.githubusercontent.com/Varshavia/Varshavia/main/koi/koi.gif" width="200" align="right" alt="My koi, redrawn every night from my GitHub activity" />
+
+
+
+
+
 ### Hey, I'm Yusuf
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf%20Suat%20Babacan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusuf-suat-babacan)
