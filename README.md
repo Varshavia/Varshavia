@@ -13,11 +13,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 #### Building
 
 - **[RepoMagpie](https://github.com/Varshavia/RepoMagpie)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/RepoMagpie?style=flat&color=gold)](https://github.com/Varshavia/RepoMagpie) - Remember why you dropped a package: your coding agent checks before installing it again.
-- **[Nightshift](https://github.com/Varshavia/nightshift)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/nightshift?style=flat&color=gold)](https://github.com/Varshavia/nightshift) - An agent fleet that patches CVEs across hundreds of repos overnight, then repairs the code the upgrades break.
-- **[Breast Radiogenomics](https://github.com/Varshavia/breast-radiogenomics)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/breast-radiogenomics?style=flat&color=gold)](https://github.com/Varshavia/breast-radiogenomics) - Breast cancer molecular subtype classification from DCE-MRI with radiomics and deep learning, plus automated nnU-Net tumor segmentation.
-- **[Context-bot](https://github.com/Varshavia/Context-bot)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/Context-bot?style=flat&color=gold)](https://github.com/Varshavia/Context-bot) - An OS-level context switcher for developers.
-- **[FPGA Neural Accelerator](https://github.com/Varshavia/FPGA-Neural-Accelerator)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/FPGA-Neural-Accelerator?style=flat&color=gold)](https://github.com/Varshavia/FPGA-Neural-Accelerator) - MNIST digit classification accelerator in Verilog, with Python-based quantization and Vivado simulation.
-
 #### Private projects
 
 Source code isn't public yet; happy to walk through any of them on request.
