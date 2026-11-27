@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf%20Suat%20Babacan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusuf-suat-babacan)
 
-Computer Engineering student at Yeditepe University. I build tools for coding agents, applied ML for health, and contribute to open-source projects along the way.
+Computer Engineering student at Yeditepe University. I build tools for coding agents, applied ML for health, formalize mathematics in Lean 4 with AI assistance, and contribute to open-source projects along the way.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 
@@ -13,6 +13,12 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 #### Building
 
 - **[RepoMagpie](https://github.com/Varshavia/RepoMagpie)** [![GitHub stars](https://img.shields.io/github/stars/Varshavia/RepoMagpie?style=flat&color=gold)](https://github.com/Varshavia/RepoMagpie) - Remember why you dropped a package: your coding agent checks before installing it again.
+
+#### Formal mathematics (Lean 4)
+
+- **[erdos947-1190-mirsky-newman](https://github.com/Varshavia/erdos947-1190-mirsky-newman)** - A Lean 4 / Mathlib proof of the Mirsky–Newman theorem (no exact covering system has distinct moduli), proving Erdős problem 947 and a variant of 1190 exactly as stated in google-deepmind/formal-conjectures. Comparator-checked; submitted to the Palomar registry.
+- **[formal-conjectures](https://github.com/google-deepmind/formal-conjectures/pulls?q=is%3Apr+author%3AVarshavia)** - Lean proofs of solved variants of Erdős problems 318, 395, 619, 1008 and 1148 (in review).
+
 #### Private projects
 
 Source code isn't public yet; happy to walk through any of them on request.
@@ -27,6 +33,5 @@ Source code isn't public yet; happy to walk through any of them on request.
 - **[ego-lite](https://github.com/citrolabs/ego-lite)** [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat&color=gold)](https://github.com/citrolabs/ego-lite) - Home-directory expansion for `~` paths in the agent browser, and stale docs/asset path cleanup.
 - **[Instatic](https://github.com/CoreBunch/Instatic)** [![GitHub stars](https://img.shields.io/github/stars/CoreBunch/Instatic?style=flat&color=gold)](https://github.com/CoreBunch/Instatic) - MCP browser tools now advertise their open-workspace requirement; data tokens and relative paths in link and button URLs.
 - **[GeoLibre](https://github.com/opengeos/GeoLibre)** [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat&color=gold)](https://github.com/opengeos/GeoLibre) - Touch-drag support for drawing the print extent on mobile.
-- **[Meta/Astryx](https://github.com/meta/astryx)** [![GitHub stars](https://img.shields.io/github/stars/meta/astryx?style=flat&color=gold)](https://github.com/meta/astryx) - A rejected search or bootstrap no longer sends `CommandPalette` to the nearest error boundary; it stays open with no results ([#10675](https://github.com/meta/astryx/pull/10675)).
 - **[Meta/Astryx](https://github.com/meta/astryx)** [![GitHub stars](https://img.shields.io/github/stars/meta/astryx?style=flat&color=gold)](https://github.com/meta/astryx) - A rejected search or bootstrap no longer sends `CommandPalette` to the nearest error boundary ([#10675](https://github.com/meta/astryx/pull/10675)); a two-month `Calendar` whose `max` falls in the opening month now keeps that month in the second pane instead of showing a fully disabled one ([#11202](https://github.com/meta/astryx/pull/11202)); found six public hooks with no docs or live example and wrote them ([#11207](https://github.com/meta/astryx/issues/11207)).
 - **[LocalThings](https://github.com/mbillow/localthings)** [![GitHub stars](https://img.shields.io/github/stars/mbillow/localthings?style=flat&color=gold)](https://github.com/mbillow/localthings) - Gas ranges that report no `Fuel_` token (NY9100DW) now get per-burner entities instead of only the raw cooktop value ([#779](https://github.com/mbillow/localthings/pull/779)).
