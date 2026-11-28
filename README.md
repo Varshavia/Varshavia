@@ -16,7 +16,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/yusuf-suat-babacan).
 
 #### Formal mathematics (Lean 4)
 
-- **[erdos947-1190-mirsky-newman](https://github.com/Varshavia/erdos947-1190-mirsky-newman)** - A Lean 4 / Mathlib proof of the Mirsky–Newman theorem (no exact covering system has distinct moduli), proving Erdős problem 947 and a variant of 1190 exactly as stated in google-deepmind/formal-conjectures. Comparator-checked; submitted to the Palomar registry.
+- **[erdos947-1190-mirsky-newman](https://github.com/Varshavia/erdos947-1190-mirsky-newman)** - A Lean 4 / Mathlib proof of the Mirsky–Newman theorem (no exact covering system has distinct moduli), proving Erdős problem 947 and a variant of 1190 exactly as stated in google-deepmind/formal-conjectures. Comparator-checked and registered in the [Palomar registry](https://palomar-registry.org/entry.html?id=PALOMAR-2026-11-27-000024) (PALOMAR-2026-11-27-000024).
 - **[formal-conjectures](https://github.com/google-deepmind/formal-conjectures/pulls?q=is%3Apr+author%3AVarshavia)** - Lean proofs of solved variants of Erdős problems 318, 395, 619, 1008 and 1148 (in review).
 
 #### Private projects
